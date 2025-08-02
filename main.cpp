@@ -15,7 +15,7 @@
 
 glm::mat4 model;
 
-const int WIDTH = 800, HEIGHT = 600;
+const int WIDTH = 1600, HEIGHT = 900;
 const int GRID_W = 256, GRID_H = 256;
 
 float yaw = -90.0f, pitch = 0.0f;
